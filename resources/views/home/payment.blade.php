@@ -1,0 +1,10 @@
+@extends('layouts.fronts.assest')
+@section('header')
+    @include('layouts.fronts.header')
+@endsection
+@section('navbar')
+    @include('layouts.fronts.navbar')
+@endsection
+@section('content')
+      @include('layouts.fronts.realizarpago')
+@endsection

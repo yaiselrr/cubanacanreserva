@@ -1,0 +1,183 @@
+@font-face {
+    font-family: 'FontAwesome';
+    src: url('../fonts/fontawesome-webfont.eot?v=4.1.0');
+    src: url('../fonts/fontawesome-webfont.eot?#iefix&v=4.1.0') format('embedded-opentype'), url('../fonts/fontawesome-webfont.woff?v=4.1.0') format('woff'), url('../fonts/fontawesome-webfont.ttf?v=4.1.0') format('truetype'), url('../fonts/fontawesome-webfont.svg?v=4.1.0#fontawesomeregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.text_encuesta {
+    color: #ab341f;
+    text-transform: uppercase;
+    font-size: 20px;
+    text-align: center;
+}
+
+.row_content {
+    margin-top: 20px;
+}
+
+.padding {
+    padding: 0;
+}
+
+.text_style {
+    font-family: Sans-Serif;
+    font-size: 18px;
+    text-align: justify;
+}
+
+.bottom {
+    margin-bottom: 0;
+}
+
+.margin_left {
+    margin-left: 0;
+}
+
+.input-group {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+    width: 100%;
+}
+
+input[type="date"].form-control,
+input[type="time"].form-control,
+input[type="datetime-local"].form-control,
+input[type="month"].form-control {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+.square {
+    padding: 5px;
+    background-color: #da2513;
+    margin: 10px;
+    margin-right: 0;
+}
+
+.div_container {
+    border: solid 1px #d3d3d3;
+    padding: 20px;
+}
+
+.bottom_ {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.label_style {
+    margin: 5px;
+    font-size: 18px;
+}
+
+.text_label_answer {
+    font-size: 16px;
+    font-family: Sans-Serif;
+    font-weight: normal;
+}
+
+.topMAS {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.margin_bottom {
+    margin-bottom: 10px;
+}
+
+.button_style {
+    text-align: center;
+    width: 100px;
+    background-color: #da2513;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.div_button {
+    text-align: end;
+}
+
+.start_light {
+    color: gold;
+}
+
+.start_solid {
+    color: gold;
+}
+
+.button_start_light {
+    border: none;
+    background-color: #ffffff;
+}
+
+.button_start_solid {
+    border: none;
+    background-color: #ffffff;
+}
+
+.button_form {
+    background: #DA2513;
+    color: #fff;
+}
+
+.row_Container {
+    margin: 5px;
+}
+
+.div_textarea_style {
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+.button_how_to_pass {
+    border: none;
+    background-color: #ffffff;
+    margin: 10px;
+}
+
+.button_survey {
+    padding: 5px;
+    border-radius: 50%;
+    background-color: #ffffff;
+}
+
+.label_survey_style {
+    font-weight: normal !important;
+    font-size: 17px;
+}
+
+.button_selected {
+    /*background-color: #007bff;*/
+    /*border-color: #007bff;*/
+
+    background-color: #DA2513;
+    border-color: #DA2513;
+}
+
+.input_invalid {
+    border: 2px solid red;
+}
+
+.input_span_invalid {
+    font-size: 16px;
+    font-style: italic;
+}
+
+.span_close {
+    color: #ffffff;
+    font-weight: bold;
+    opacity: unset;
+}
+
+.text_flash {
+    font-size: 20px;
+    font-family: Calibri;
+}
+

@@ -1,0 +1,12 @@
+@extends('layouts.fronts.assest')
+@section('header')
+    @include('layouts.fronts.header')
+@endsection
+@section('navbar')
+    @include('layouts.fronts.navbar')
+@endsection
+@section('content')
+    @include('layouts.fronts.carousel')
+    @include('layouts.fronts.buscarProductos')
+    @include('layouts.fronts.flexi_fly_drive',['vistaflexiflydrive'=>'Si'])
+@endsection
